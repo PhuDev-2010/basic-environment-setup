@@ -177,13 +177,17 @@ pip show <library-name>
 pip list
 ```
 
+## Source Bot Zalo (Unofficial)
+- **Github:** [zjr_api](https://github.com/PhuDev-2010/zjr_api)
+
 ## 📞 Contact
 
 If you need support or comments, please contact us via:
 
 - **Zalo:** 0816262451  
-- **Facebook:** [facebook.com/mphudev](https://www.facebook.com/mphudev)  
-- **GitHub:** [github.com/PhuDev-2020](https://github.com/PhuDev-2020)  
+- **Facebook:** [Lâm Minh Phú](https://www.facebook.com/mphudev)  
+- **GitHub:** [PhuDev-2020](https://github.com/PhuDev-2020)  
+- **Telegram:** [Phú Coder](https://t.me/phucoder)
 - **Email (optional):** zbllf2lollpll@gmail.com 
 
 **Thanks For Watching**
