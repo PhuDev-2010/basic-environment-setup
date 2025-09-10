@@ -25,7 +25,7 @@ show_header() {
     echo -e "${PURPLE}${BOLD}TERMUX PROFESSIONAL DEVELOPMENT SUITE"
     echo -e "Installation Manager v2.0${NC}"
     echo -e "${WHITE}Contact: ${CYAN}Zalo 0816262451 | Facebook: facebook.com/mphudev"
-    echo -e "GitHub: ${CYAN}github.com/PhuDev-2020${NC}\n"
+    echo -e "GitHub: ${CYAN}github.com/PhuDev-2010${NC}\n"
 }
 
 # Show progress
