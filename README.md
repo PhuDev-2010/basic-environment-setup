@@ -237,9 +237,9 @@ pip list
 If you need support or comments, please contact us via:
 
 - **Zalo:** 0816262451  
-- **Facebook:** [Lâm Minh Phú](https://www.facebook.com/mphudev)  
+- **Facebook:** [Lâm Minh Phú](https://www.facebook.com/phudev2010)  
 - **GitHub:** [PhuDev-2020](https://github.com/PhuDev-2020)  
-- **Telegram:** [Phú Coder](https://t.me/phucoder)
+- **Telegram:** [Phú Coder](https://t.me/mphudev)
 - **Email (optional):** zbllf2lollpll@gmail.com 
 
 **Thanks For Watching**
