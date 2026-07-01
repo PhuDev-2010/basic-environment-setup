@@ -238,8 +238,8 @@ If you need support or comments, please contact us via:
 
 - **Zalo:** 0816262451  
 - **Facebook:** [Lâm Minh Phú](https://www.facebook.com/phudev2010)  
-- **GitHub:** [PhuDev-2020](https://github.com/PhuDev-2020)  
-- **Telegram:** [Phú Coder](https://t.me/mphudev)
+- **GitHub:** [PhuDev-2010](https://github.com/PhuDev-2010)  
+- **Telegram:** [Phú Coder](phudev)
 - **Email (optional):** zbllf2lollpll@gmail.com 
 
 **Thanks For Watching**
